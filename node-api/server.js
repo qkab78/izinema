@@ -3,7 +3,7 @@ const session = require('express-session');
 const bodyParser = require('body-parser');
 const mongoose = require('mongoose');
 const passport = require('passport');
-const port = 3000;
+const port = 5000;
 
 //Routes
 const index = require('./api/routes/index');
