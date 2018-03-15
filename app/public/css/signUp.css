@@ -1,0 +1,108 @@
+/* signUp */
+
+.fontAwesome {
+  font-family: 'Helvetica', FontAwesome, sans-serif;
+}
+
+.signUp-btn {
+  margin: 5px 20px 0 0;
+  background-image: linear-gradient(to right, #41454B 0%, #E0E1E2 51%, #41454B 100%);
+  color: white;
+}
+
+.signUp-btn:hover {
+  background-image: linear-gradient(to right, #E0E1E2 0%, #41454B 51%, #E0E1E2 100%);
+  color: white;
+}
+
+.signUp-box {
+  width: 400px;
+  height: 615px;
+  background-color: rgba(224, 225, 226, 0.5);
+  margin: 0 auto;
+  border-radius: 7px 7px 7px;
+}
+
+.signUp-box>p,
+label {
+  color: white;
+}
+
+.signUp-logo-box {
+  text-align: center;
+}
+
+.signUp-logo {
+  width: 150px;
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+
+.signUp-inputs {
+  text-align: center;
+}
+
+.signUp-input {
+  border-radius: 40px;
+  border: none;
+  display: inline-block;
+  width: 300px;
+  height: 50px;
+}
+
+.signUp-input {
+  border-radius: 40px;
+  border: none;
+  display: inline-block;
+  margin-bottom: 30px;
+  width: 300px;
+  height: 50px;
+}
+
+.signUp-btn-box {
+  margin-top: 10px;
+  text-align: center;
+}
+
+.signUp-btn-2 {
+  border-radius: 40px;
+  border: none;
+  color: black;
+  text-align: center;
+  width: 300px;
+  height: 50px;
+  margin-bottom: 5px;
+  background-image: linear-gradient(to right, #41454B 0%, #E0E1E2 51%);
+}
+
+.signUp-btn-2:hover {
+  background-image: linear-gradient(to right, #41454B 51%, #E0E1E2 100%);
+  color: white;
+}
+
+.signUp-checkbox {
+  text-align: center;
+}
+
+.signUp-label {
+  margin-left: 10px;
+}
+
+.signIn-box {
+  /* position: relative; */
+  margin-top: 20px;
+  margin-right: 20px;
+  text-align: right;
+}
+
+.signIn-btn {
+  background-color: orangered;
+  /* background-image: linear-gradient(to right, #FF512F 0%, #F09819 51%, #FF512F 100%); */
+  color: white;
+  margin: 0 auto;
+}
+
+.signIn-btn:hover {
+  /* background-image: linear-gradient(to right, #ff8533 0%, #de6615 51%, #ff8533 100%); */
+  color: white;
+}
